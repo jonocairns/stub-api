@@ -28,6 +28,6 @@
     "promo": {
         "code": "PROMO420",
         "valueOff": "20",
-        "valueOffType": "Blah"
+        "valueOffType": "Value"
     }
   }
