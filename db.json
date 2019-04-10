@@ -1,6 +1,7 @@
 {
     "code": "PROMO420",
     "valueOff": 50,
-    "valueOffType": "Percentage"
+    "valueOffType": "Percentage",
+    "skus": ["MFB4236", "MFB8344", "MFB4687"]
 }
   
