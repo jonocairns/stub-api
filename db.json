@@ -27,7 +27,7 @@
     ],
     "promo": {
         "code": "PROMO420",
-        "valueOff": 20,
-        "valueOffType": "Value"
+        "valueOff": 50,
+        "valueOffType": "Percent"
     }
   }
